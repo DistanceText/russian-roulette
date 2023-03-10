@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "russian roulette", "russian roulette\russian roulette.csproj", "{3489E905-67A2-4F5B-B973-4CF65B1DC169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3489E905-67A2-4F5B-B973-4CF65B1DC169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3489E905-67A2-4F5B-B973-4CF65B1DC169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3489E905-67A2-4F5B-B973-4CF65B1DC169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3489E905-67A2-4F5B-B973-4CF65B1DC169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64EBB04C-FE8B-42C1-804E-4F212FAB6455}
+	EndGlobalSection
+EndGlobal
