@@ -19,7 +19,7 @@ namespace russian_roulette
             }
             else
             {
-                Console.WriteLine("" + i);
+                Console.WriteLine("You are safe");
             }
             Console.ReadKey();
         }
